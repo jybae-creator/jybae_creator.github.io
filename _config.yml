@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+theme    : jekyll-theme-cayman
+
+url      : "https://jybae-creator.github.io/jybae_creator.github.io/"
+base_url : "https://jybae-creator.github.io/jybae_creator.github.io/funfunPython/"
